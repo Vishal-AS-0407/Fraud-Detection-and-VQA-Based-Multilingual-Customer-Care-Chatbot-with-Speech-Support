@@ -10,7 +10,7 @@ import os
 import re
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAjhjE1-c6vcFixyO6lOIHQUE8a15peRd0")
+genai.configure(api_key="Your api Key")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 def record_audio(filename, duration=5, rate=44100, chunk=1024):
@@ -51,7 +51,7 @@ def send_to_sarvam_api(filepath):
     url = "https://api.sarvam.ai/speech-to-text-translate"
     
     headers = {
-        'api-subscription-key': '44de06bc-2820-4709-9f01-b60acff28d0f'
+        'api-subscription-key': 'Enter you Key'
     }
     
     payload = {
