@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 
 ```
-.
+
 ├── train.py               # Federated Learning for Fraud Detection
 ├── test.py                # Fraud Detection Streamlit App
 ├── final.py               # VQA Customer Care Chatbot with Speech and Multilingual Support
@@ -106,15 +106,4 @@ streamlit run final.py
 
 If you find this project helpful, give it a ⭐ on GitHub and share it with others! 😊  
 
----
 
-### 🌟 **Show Your Support!**  
-
-If you find this project helpful, give it a ⭐ on GitHub and share it with others! 😊  
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need any further modifications or additions!
