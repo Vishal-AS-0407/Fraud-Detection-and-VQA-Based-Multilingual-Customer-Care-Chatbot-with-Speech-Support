@@ -20,6 +20,28 @@ pip install -r requirements.txt
 
 
 ---
+Here's a formatted version of your content with icons and a polished structure:
+
+---
+
+# Work Flow  
+🛠️ **System Overview**  
+![Workflow Diagram](https://github.com/user-attachments/assets/8b855bf0-ad81-4d90-82e3-7c78fe6ea48b)
+
+---
+
+# Outputs  
+### 📊 **Fraud Detection Model Summary**  
+A concise model summary showing the performance metrics of the fraud detection system:  
+![Model Summary](https://github.com/user-attachments/assets/b4faa1a3-55f0-4297-aa09-d8786dd91b82)
+
+---
+
+### 🤖 **Chatbot Interface**  
+A user-friendly chatbot interface, demonstrating how the model interacts with end-users:  
+![Chatbot Screenshot](https://github.com/user-attachments/assets/2db3fc55-9a99-48f3-a90a-a10622fcecd3)
+
+---
 
 ## 📂 Project Structure
 
