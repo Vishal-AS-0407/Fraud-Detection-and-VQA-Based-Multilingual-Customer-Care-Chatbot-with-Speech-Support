@@ -102,6 +102,7 @@ Start the chatbot with:
 ```bash
 streamlit run final.py
 ```
+---
 ### 🌟 **Show Your Support!**  
 
 If you find this project helpful, give it a ⭐ on GitHub and share it with others! 😊  
